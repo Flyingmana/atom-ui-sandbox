@@ -1,6 +1,6 @@
 {
   "name": "ui-sandbox",
-  "main": "./lib/ui-sandbox",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
